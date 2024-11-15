@@ -1,2 +1,2 @@
 # Desafio1-VaiNaWeb
-Repositório para entrega do Primeiro desafio do Vai na Web
+Desafio 1 - Criação de Página Web - Estrutura de Tags e Semântica
